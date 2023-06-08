@@ -1,0 +1,30 @@
+ <html>
+ <head>
+
+ <link rel="stylesheet" type="text/css" href="styles.css">
+ </head>
+<body * { padding: 0; margin: 0; }>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+</body>
+
+<img onclick="brapp()" id="poo2" src="button.jpg" class="centered" style="padding-bottom:250px;">
+<a id="poo3"  style="z-index:9999999; position:absolute; top:50px; text-align:center; left:0; right:0; color:#fff; font-family:sans-serif">kkkekma@protonmail.com -- safe version</a>
+<section style="position:absolute; bottom:50px;z-index:9999999; width:100%">
+	<img id="poo4" onclick="ahyesmydear()" src="1ia51u.png" class="fandom">
+	<a style="color:white" class="chute" href="https://tube.kekmahub.com/">Click Here to view the KEKMATUBE!</a>
+</section>
+
+
+
+<audio id="shart" preload hidden loop src="https://github.com/t12121/savewebsites/raw/main/avyya.mp3"></audio>
+<audio id="shart2" preload hidden loop src="https://github.com/t12121/savewebsites/raw/main/avyya.mp3"></audio>
+<audio id="shart3" preload hidden loop src="https://github.com/t12121/savewebsites/raw/main/avyya.mp3"></audio>
+
+<div onmouseover="tfs()" class="trap"></div>
+<div id="poo" class="black"></div>
+<div class="centain">
+<div class="center">
+<video id="fart" loop src="https://github.com/t12121/savewebsites/raw/main/videoplayback.mp4"></video>
+</div>
+</div class="backg"><img src="https://media.tenor.com/YI1seX8H-dIAAAAC/scary-creepy.gif"></div>
+</html>
